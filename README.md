@@ -15,9 +15,8 @@
 
 ## 📸 Demo
 
-![Pose Estimation Demo](demo_image.jpg)
+![Pose Estimation Demo](![image](https://github.com/user-attachments/assets/465ef9e4-44ad-4d9b-90e5-f7a0b3b3434e)
 
-*Replace `demo_image.jpg` with an actual image demonstrating the application's output.*
 
 ---
 
